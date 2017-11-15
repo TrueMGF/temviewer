@@ -1,0 +1,31 @@
+@font-face{
+    font-family: "Determination Sans";
+    src: url("res/dtmsans.otf");
+}
+html,body {
+    font-family: "Determination Sans", "Arial", sans-serif;
+    background-color: black;
+    color: white;
+    margin:0;
+    overflow-x:hidden;
+}
+header {
+    margin:0;
+    width: 100%;
+    height: 10%;
+    border-bottom: 2px solid white;
+}
+main {
+    margin:0;
+    width: 100%;
+    height: 80%;
+}
+footer {
+    margin:0;
+    width: 100%;
+    height:10%;
+    font-size:.8em;
+}
+p {
+    margin:2px;
+}

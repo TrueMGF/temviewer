@@ -1,0 +1,23 @@
+{
+  "name": "temviewer",
+  "version": "0.6.9",
+  "description": "view images of tem",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrueMGF/temviewer.git"
+  },
+  "author": "baa baa black goat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrueMGF/temviewer/issues"
+  },
+  "homepage": "https://github.com/TrueMGF/temviewer#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "electron": "^1.7.9"
+  }
+}
