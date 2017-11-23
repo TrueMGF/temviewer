@@ -4,6 +4,7 @@ const url = require("url");
 const path = require("path");
 let win;
 
+
 app.on("ready",()=>{
     const {width,height} = electron.screen.getPrimaryDisplay().workAreaSize;
     win = new BrowserWindow({width,height,autoHideMenuBar:true,title:"temviewer - hOi!"});

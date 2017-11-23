@@ -18,6 +18,8 @@
   "homepage": "https://github.com/TrueMGF/temviewer#readme",
   "dependencies": {
     "axios": "^0.17.1",
-    "electron": "^1.7.9"
+    "electron": "^1.7.9",
+    "jquery": "^3.2.1",
+    "log": "^1.4.0"
   }
 }

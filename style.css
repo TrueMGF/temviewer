@@ -34,3 +34,7 @@ footer {
 p {
     margin:2px;
 }
+a,:visited{
+    color:yellow; 
+    text-decoration:none; 
+}
